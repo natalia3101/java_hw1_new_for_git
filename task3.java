@@ -1,5 +1,6 @@
 // Task_3.
 // Реализовать простой калькулятор (+,-,=,*), только с целыми числами.
+// lets add some new text
 
 import java.util.Scanner;
 public class task3 {
